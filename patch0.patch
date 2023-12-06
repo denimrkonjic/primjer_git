@@ -1,0 +1,23 @@
+diff --git a/novi file b/novi file
+deleted file mode 100644
+index dc81dad..0000000
+--- a/novi file	
++++ /dev/null
+@@ -1,5 +0,0 @@
+-opet promjena
+-još jedna promjena"
+-
+-
+-imamo novu granu i novu promjenu
+diff --git a/recept.txt b/recept.txt
+index 668d3fb..e69de29 100644
+--- a/recept.txt
++++ b/recept.txt
+@@ -1,7 +0,0 @@
+-još jedna promjena u nizu 
+-
+-
+-prva promjena na gitu
+-ovo mora radit
+-treća promjena napokon radi 
+-189 promjena
