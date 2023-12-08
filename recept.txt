@@ -1,3 +1,6 @@
+izmjena 123
+dodaj bilo šta
+
 još jedna promjena u nizu 
 
 
